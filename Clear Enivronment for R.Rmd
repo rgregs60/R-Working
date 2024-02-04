@@ -1,0 +1,7 @@
+rm(list=ls()) # Remove all variables from the workspace
+plot.new() 
+cat("\014") # Clear console
+
+
+
+
